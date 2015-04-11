@@ -1,0 +1,1 @@
+$wnd.AppWidgetset.runAsyncCallback2('function Qpd(a){Rpd()}\nfunction Rpd(){Spd()}\nfunction Spd(){}\nKGb(2050,1,ODf);_.$c=function Vpd(){Qpd(this);l4c(n4c(),L3c(this.b))};Nvf(Bn)(2);\n//# sourceURL=AppWidgetset-2.js\n')
